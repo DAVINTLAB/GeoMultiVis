@@ -5,14 +5,14 @@ Uses `turf-inside` to determine which points are in view, and adds a filtering d
 
 
 
-# Citation
+## Citation
 
 Please refer to this work by citing the paper indicate below.
 
 Wagner Signoretti, Isabel H. Manssour and Milene S. Silveira. GeoMultiVis: helping decision-making through Interactive Visualizations from Geospatial Multivariate Data. In: Americas Conference on Information Systems (AMCIS), 2019, Cancun. Proceedings of the 25th Americas Conference on Information Systems, 2019. p. 1-10.
 
 
-# About the Authors
+## About the Authors
 
 We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:
 - Isabel H. Manssour -- Professor Coordinator of DaVInt -- 2017-current.
